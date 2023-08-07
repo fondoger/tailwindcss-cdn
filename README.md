@@ -15,6 +15,8 @@ Without plugins:
 <script src="https://unpkg.com/tailwindcss-cdn@3.3.4/tailwindcss.js"></script>
 <!-- or with jsDelivr CDN (option 2) -->
 <script src="https://cdn.jsdelivr.net/npm/tailwindcss-cdn@3.3.4/tailwindcss.js"></script>
+<!-- or with Taobao npmmirror (option 3, for China users) -->
+<script src="https://registry.npmmirror.com/tailwindcss-cdn/3.3.4/files/tailwindcss.js"></script>
 ```
 
 With plugins:
