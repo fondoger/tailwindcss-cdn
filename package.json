@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-cdn",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "Leverage CDN network jsdelivr/unpkg to provide fast access for TailwindCSS static files. (TailwindCSS's official Play CDN is slow and not proxied in China)",
   "main": "tailwindcss.js",
   "homepage": "https://github.com/fondoger/tailwindcss-cdn",
