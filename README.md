@@ -12,26 +12,26 @@ Without plugins:
 <!-- Replace the official CDN link -->
 <script src="https://cdn.tailwindcss.com"></script>
 <!-- with UNPKG CDN (option 1) -->
-<script src="https://unpkg.com/tailwindcss-cdn@3.4.1/tailwindcss.js"></script>
+<script src="https://unpkg.com/tailwindcss-cdn@3.4.3/tailwindcss.js"></script>
 <!-- or with jsDelivr CDN (option 2) -->
-<script src="https://cdn.jsdelivr.net/npm/tailwindcss-cdn@3.4.1/tailwindcss.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tailwindcss-cdn@3.4.3/tailwindcss.js"></script>
 <!-- or with Taobao npmmirror (option 3, for China users) -->
-<script src="https://registry.npmmirror.com/tailwindcss-cdn/3.4.1/files/tailwindcss.js"></script>
+<script src="https://registry.npmmirror.com/tailwindcss-cdn/3.4.3/files/tailwindcss.js"></script>
 ```
 
 With plugins:
 
 ```html
 <!-- forms -->
-<script src="https://unpkg.com/tailwindcss-cdn@3.4.1/tailwindcss-with-forms.js"></script>
+<script src="https://unpkg.com/tailwindcss-cdn@3.4.3/tailwindcss-with-forms.js"></script>
 <!-- typography -->
-<script src="https://unpkg.com/tailwindcss-cdn@3.4.1/tailwindcss-with-typography.js"></script>
+<script src="https://unpkg.com/tailwindcss-cdn@3.4.3/tailwindcss-with-typography.js"></script>
 <!-- aspect-ratio -->
-<script src="https://unpkg.com/tailwindcss-cdn@3.4.1/tailwindcss-with-aspect-ratio.js"></script>
+<script src="https://unpkg.com/tailwindcss-cdn@3.4.3/tailwindcss-with-aspect-ratio.js"></script>
 <!-- container-queries -->
-<script src="https://unpkg.com/tailwindcss-cdn@3.4.1/tailwindcss-with-container-queries.js"></script>
+<script src="https://unpkg.com/tailwindcss-cdn@3.4.3/tailwindcss-with-container-queries.js"></script>
 <!-- all in one -->
-<script src="https://unpkg.com/tailwindcss-cdn@3.4.1/tailwindcss-with-all-plugins.js"></script>
+<script src="https://unpkg.com/tailwindcss-cdn@3.4.3/tailwindcss-with-all-plugins.js"></script>
 ```
 
 ## Contribute
