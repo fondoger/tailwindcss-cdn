@@ -4,6 +4,8 @@
 
 Leverage CDN network jsdelivr/unpkg to provide fast access for TailwindCSS static files. (TailwindCSS's official Play CDN is slow and not proxied in China)
 
+This is a in-browser JIT compiler script, which might slower your website performance. You might need a static CSS file solution: [TailwindCSS Utilities](https://github.com/fondoger/tailwindcss-utilities).
+
 ## Usage
 
 Without plugins:
